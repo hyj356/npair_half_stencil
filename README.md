@@ -1,0 +1,2 @@
+# npair_half_stencil
+模仿lammps的neighbor bin，stencil为half的近邻列表构建方式的代码。
